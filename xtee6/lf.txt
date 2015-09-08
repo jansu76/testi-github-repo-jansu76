@@ -1,0 +1,4 @@
+testitiedosto jossa unix rivinvaihtoja (LF)
+addasdas
+adsdas
+q
